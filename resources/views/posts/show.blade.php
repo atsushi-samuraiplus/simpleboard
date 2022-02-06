@@ -4,9 +4,9 @@
 
 @section('content')
 
-    @if (session('message'))
+    <!--@if (session('message'))
         {{ session('message') }}
-    @endif
+    @endif-->
 
     <div class="card">
         <div class="card-body">
